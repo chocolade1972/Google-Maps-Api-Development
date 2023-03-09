@@ -1,5 +1,5 @@
 
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1SeJ-Nf5eduw5Viv_xUVPLU-0B31sGJA&callback=initMap&v=weekly&language=he"
+      src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap&v=weekly&language=he"
       defer
 
     function initMap() {
